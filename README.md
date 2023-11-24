@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![CAptura de pantalla](.images/Screenshot-2023-11-24)
+![CAptura de pantalla](.images/Screenshot-2023-11-24-results-summary-card-component.png)
 
 
 ### Links
