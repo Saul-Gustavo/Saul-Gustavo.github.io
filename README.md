@@ -16,16 +16,14 @@ This is a solution to the [Results summary component on Frontend Mentor](https:/
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
 Users should be able to:
 
-- Hice el proyecto de Frontend Mentor basandome en la imagen del diseño, escribi los codigos de colores para cada seccion, para que se vea similar al diseño.
-- El usuario debera ver el resultado de los estilos de los botones y su hover correspondiente.
+- I built the Frontend Mentor project based on the design image, wrote color codes for each section to make it look similar to the design.
+- The user should see the result of the button styles and their corresponding hover.
 
 ### Screenshot
 
@@ -72,11 +70,11 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-En cuestion de las propiedades de CSS3, aun me falta por aprender mas, pero con la practica se que podre mejorar y hacer mejor los proyectos que me proponga.
+In terms of CSS3 properties, I still have more to learn, but with practice, I know I can improve and execute projects more effectively.
 
 ### Useful resources
 
-- [Summary Video](https://www.youtube.com/watch?v=KqFAs5d3Yl8&t=903s) - Gracias a este video pude tener una vision mas clara de como hacer el diseño de la tarjeta.
+- [Summary Video](https://www.youtube.com/watch?v=KqFAs5d3Yl8&t=903s) - Thanks to this video, I gained a clearer understanding of how to design the card.
 
 ## Author
 
