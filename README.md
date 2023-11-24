@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/Screenshot-2023-11-24 at 12-12-53-Frontend-Mentor-Results Summary-Component.png)
+![Captura de pantalla](images/Screenshot-2023-11-24 at 12-12-53-Frontend-Mentor-Results Summary-Component.png)
 
 
 ### Links
