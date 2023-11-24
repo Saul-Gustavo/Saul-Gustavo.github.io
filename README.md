@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![CAptura de pantalla](.images/Screenshot-2023-11-24-results-summary-card-component.png)
+
+![Screenshot-2023-11-24 at 12-12-53-Frontend-Mentor-Results Summary-Component](./images/)
 
 
 ### Links
