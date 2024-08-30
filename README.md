@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/solutions/results-summary-component-Uy8CCeNZo_)
-- Live Site URL: [GitHub Page](https://saul-gustavo.github.io/Saul-Gustavo-result-summary.github.io/)
+- Live Site URL: [GitHub Page](https://saul-gustavo.github.io/result-summary-card/)
 
 ## My process
 
